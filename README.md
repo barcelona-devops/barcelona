@@ -4,7 +4,7 @@ Barcelona is a PaaS built on top of AWS. Barcelona manages AWS cluster (VPC, EC2
 
 # Documentation
 
-https://github.com/degica/barcelona/tree/master/docs
+https://github.com/barcelona-devops/barcelona/tree/master/docs
 
 # Development
 
@@ -20,7 +20,7 @@ To start development, you need to install docker and docker-compose.
 Clone this repository
 
 ```
-$ git clone https://github.com/degica/barcelona
+$ git clone https://github.com/barcelona-devops/barcelona
 ```
 
 Run the server
