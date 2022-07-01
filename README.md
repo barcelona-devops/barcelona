@@ -2,6 +2,9 @@
 
 Barcelona is a PaaS built on top of AWS. Barcelona manages AWS cluster (VPC, EC2, AutoScaling, ECS, ELB/ALB, etc.), application deployments with docker and ECS, and provides utility functions to manage your applications.
 
+Previously degica/barcelona
+
+
 # Documentation
 
 https://github.com/barcelona-devops/barcelona/tree/master/docs
